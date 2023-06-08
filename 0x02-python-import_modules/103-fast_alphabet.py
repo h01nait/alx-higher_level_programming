@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-import alpha
+from string import ascii_letters
+print(ascii_letters[26:])
